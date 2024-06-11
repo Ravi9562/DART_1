@@ -2,6 +2,8 @@ Important changes to data models, configuration, and migrations between each
 AppEngine version, listed here to ease deployment and troubleshooting.
 
 ## Next Release (replace with git tag when deployed)
+ * Upgraded runtime Dart SDK to `3.5.0-196.0.dev`.
+ * Upgraded runtimeVersion to `2024.06.11`
 
 ## `20240606t114600-all`
  * Bumped runtimeVersion to `2024.05.30`.
