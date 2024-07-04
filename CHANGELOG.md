@@ -3,6 +3,7 @@ AppEngine version, listed here to ease deployment and troubleshooting.
 
 ## Next Release (replace with git tag when deployed)
  * Note: `setup-flutter.sh` uses http archives for stable/beta channel.
+ * Note: starting to check `hook/` files for new package uploads.
 
 ## `20240627t084200-all`
  * Bumped runtimeVersion to `2024.06.25`.
